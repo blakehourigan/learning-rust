@@ -1,0 +1,35 @@
+struct User {
+    active: bool,
+    username: String,
+    email: String, 
+    sign_in_count: u64,
+}
+
+fn main() {
+    let mut user1 = User {
+        active: true,
+        username:String::from("ducklover69"),
+        email: String::from("ducklover69@420mail.net"),
+        sign_in_count: 64,
+    };
+    
+    user1.email = String::from("duckhater69@420mail.net");
+
+    let user2 = build_user(String::from("suckducks420@69.net"),String::from("duckssuck"));
+
+    println!("user 1 details:");
+    println!("{}, {}, {}, {}", user1.active, user1.username, user1.email, user1.sign_in_count);
+    println!(""); 
+
+    println!("user 2 details:");
+    println!("{}, {}, {}, {}", user2.active, user2.username, user2.email, user2.sign_in_count)
+}
+
+fn build_user(email: String, username: String) -> User{
+    User{
+        active: true, 
+        username: username, 
+        email: email,
+        sign_in_count: 1, 
+    }
+}
