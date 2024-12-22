@@ -1,0 +1,1 @@
+/home/blake/Documents/rust/5)\ Using\ Structs\ to\ Structure\ Related\ Data/more_struct_practice/target/debug/more_struct_practice: /home/blake/Documents/rust/5)\ Using\ Structs\ to\ Structure\ Related\ Data/more_struct_practice/src/main.rs
