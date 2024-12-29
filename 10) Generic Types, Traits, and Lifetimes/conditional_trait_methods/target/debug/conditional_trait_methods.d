@@ -1,0 +1,1 @@
+/home/blake/Documents/rust/10)\ Generic\ Types,\ Traits,\ and\ Lifetimes/conditional_trait_methods/target/debug/conditional_trait_methods: /home/blake/Documents/rust/10)\ Generic\ Types,\ Traits,\ and\ Lifetimes/conditional_trait_methods/src/main.rs

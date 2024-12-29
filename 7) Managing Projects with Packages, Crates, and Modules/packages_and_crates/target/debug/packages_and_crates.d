@@ -1,0 +1,1 @@
+/home/blake/Documents/rust/7)\ Managing\ Projects\ with\ Packages,\ Crates,\ and\ Modules/packages_and_crates/target/debug/packages_and_crates: /home/blake/Documents/rust/7)\ Managing\ Projects\ with\ Packages,\ Crates,\ and\ Modules/packages_and_crates/src/main.rs

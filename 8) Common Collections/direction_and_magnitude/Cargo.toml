@@ -1,0 +1,6 @@
+[package]
+name = "direction_and_magnitude"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

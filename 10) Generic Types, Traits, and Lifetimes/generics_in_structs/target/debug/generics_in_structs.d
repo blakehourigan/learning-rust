@@ -1,0 +1,1 @@
+/home/blake/Documents/rust/10)\ Generic\ Types,\ Traits,\ and\ Lifetimes/generics_in_structs/target/debug/generics_in_structs: /home/blake/Documents/rust/10)\ Generic\ Types,\ Traits,\ and\ Lifetimes/generics_in_structs/src/main.rs
