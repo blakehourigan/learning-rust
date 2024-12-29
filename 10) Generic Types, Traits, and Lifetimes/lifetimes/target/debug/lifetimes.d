@@ -1,0 +1,1 @@
+/home/blake/Documents/rust/10)\ Generic\ Types,\ Traits,\ and\ Lifetimes/lifetimes/target/debug/lifetimes: /home/blake/Documents/rust/10)\ Generic\ Types,\ Traits,\ and\ Lifetimes/lifetimes/src/main.rs

@@ -1,0 +1,1 @@
+/home/blake/Documents/rust/5)\ Using\ Structs\ to\ Structure\ Related\ Data/instantiating_structs/target/debug/instantiating_structs: /home/blake/Documents/rust/5)\ Using\ Structs\ to\ Structure\ Related\ Data/instantiating_structs/src/main.rs
