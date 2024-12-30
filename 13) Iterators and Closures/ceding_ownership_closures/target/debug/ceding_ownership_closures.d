@@ -1,0 +1,1 @@
+/home/blake/Documents/rust/13)\ Iterators\ and\ Closures/ceding_ownership_closures/target/debug/ceding_ownership_closures: /home/blake/Documents/rust/13)\ Iterators\ and\ Closures/ceding_ownership_closures/src/main.rs
