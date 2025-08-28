@@ -4,8 +4,12 @@ fn main() {
     // tuples and arrays!
     // tuples are immutable and you must specify their types...
     let tup: (i32, f64, char) = (500, 69.420, 'c');
+
     let (x, y, z) = tup;
+
     println!("{x}, {y}, {z}");
+
+    println!("the first element of the tuple is {0}", tup.0);
 
     // arrays!
     // they cannot grow!
@@ -20,7 +24,7 @@ fn main() {
         .read_line(&mut index)
         .expect("failed to read line");
 
-    let index: usize = index
+    let index: usize = index // arrays are indexed with usize
         .trim()
         .parse()
         .expect("you didn't enter a number bruh");
